@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: ai-agent-suke-scaffold-app
+  profiles:
+    active: dev
